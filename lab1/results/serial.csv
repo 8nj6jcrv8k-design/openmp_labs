@@ -1,0 +1,2 @@
+method,threads,n,integral,time
+SERIAL,1,100000000,-0.822467030,0.323139000
