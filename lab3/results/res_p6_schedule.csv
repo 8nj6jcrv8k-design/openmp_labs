@@ -1,0 +1,8 @@
+schedule,method,threads,n,checksum,time
+"static",omp_outer,4,300,458330.299130,0.065268000
+"static,1",omp_outer,4,300,458330.299130,0.078430000
+"static,5",omp_outer,4,300,458330.299130,0.073547000
+"static,20",omp_outer,4,300,458330.299130,0.072181000
+"static,50",omp_outer,4,300,458330.299130,0.081072000
+"dynamic",omp_outer,4,300,458330.299130,0.080490000
+"guided",omp_outer,4,300,458330.299130,0.078940000
